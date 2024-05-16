@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hesapmak(mutex)", "hesapmak(mutex)\hesapmak(mutex).csproj", "{90C47480-BB11-4FE9-8CE4-D21170C3826D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C47480-BB11-4FE9-8CE4-D21170C3826D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C47480-BB11-4FE9-8CE4-D21170C3826D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C47480-BB11-4FE9-8CE4-D21170C3826D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C47480-BB11-4FE9-8CE4-D21170C3826D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8A9665E-93A9-4D97-B653-CEF758884D26}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\hesapmak(mutex)\hesapmak(mutex)\bin\Debug\hesapmak(mutex).exe.config
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\hesapmak(mutex)\hesapmak(mutex)\bin\Debug\hesapmak(mutex).exe
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\hesapmak(mutex)\hesapmak(mutex)\bin\Debug\hesapmak(mutex).pdb
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\hesapmak(mutex)\hesapmak(mutex)\obj\Debug\hesapmak(mutex).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\hesapmak(mutex)\hesapmak(mutex)\obj\Debug\hesapmak(mutex).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\hesapmak(mutex)\hesapmak(mutex)\obj\Debug\hesapmak(mutex).exe
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\hesapmak(mutex)\hesapmak(mutex)\obj\Debug\hesapmak(mutex).pdb
